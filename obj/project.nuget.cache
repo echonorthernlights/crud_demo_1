@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmFOZMQ/SIOm9vFvSs7Squ/K22pX+JGRC5nuPNXzjW959oPPywD5K3eDOk6nJqW6Y2M+t+TNDla/vQUpRZns8g==",
+  "success": true,
+  "projectFilePath": "D:\\Workplace\\.NET workplace\\crud\\crud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\NorthernLights\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
